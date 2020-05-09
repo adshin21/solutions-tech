@@ -1,4 +1,10 @@
-# # Requires mimimum python3 to run
+# Requires mimimum python3 to run
+
+- Clone the repo
+- `cd solutions-tech/techtinium/`
+
+Then
+
 
 # To run the test use
 `python3 test.py`
